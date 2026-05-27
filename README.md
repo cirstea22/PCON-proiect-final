@@ -1,16 +1,16 @@
-# (Titlul)
-An interactive audio analsys and remix tool using Fluid Corpus Manipulation Toolkit
+# An interactive audio analsys and remix tool using Fluid Corpus Manipulation Toolkit
+
 
   -Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de remixuri prin tehnici de audio slicing și DSP.
-    -Features:
+  -Features:
     
-      *Încărcarea buclelor de tobe și a mostrelor audio
-      *Detectarea automată a tranzienților folosind Fluid Corpus
-      *Segmentarea și slicing-ul mostrelor de percutie
-      *Redare aleatorie a feliilor / motor de remix automat
-      *Vizualizarea formei de undă în timp real
-      *Vizualizarea spectrală prin spectroscop~
-      *Extragerea caracteristicilor audio (MFCC/intesintate sonora,spectrul sonor)
+    *Încărcarea buclelor de tobe și a mostrelor audio
+    *Detectarea automată a tranzienților folosind Fluid Corpus
+    *Segmentarea și slicing-ul mostrelor de percutie
+    *Redare aleatorie a feliilor / motor de remix automat
+    *Vizualizarea formei de undă în timp real
+    *Vizualizarea spectrală prin spectroscop~
+    *Extragerea caracteristicilor audio (MFCC/intesintate sonora,spectrul sonor)
     
 ## (Instalare)
 ...
@@ -21,6 +21,7 @@ An interactive audio analsys and remix tool using Fluid Corpus Manipulation Tool
 ## (Istoric)
 
 (07.05.2026)-Primul draft al proiectului a fost prezentat fizic la laborator
+
 (27.05.2028)-Al doilea draft al proiectului a fost incarcat pe Github aici.De mentionat faptul ca proiectul nu este inca gata, Fluid Corpus Manipulations Toolkit features nefiind inca implementate la modul complet functional
 
 
