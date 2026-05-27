@@ -2,6 +2,7 @@
 
 
   -Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de remixuri prin tehnici de audio slicing și DSP.
+  
   -Features:
     
     *Încărcarea buclelor de tobe și a mostrelor audio
