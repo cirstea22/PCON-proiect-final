@@ -1,7 +1,9 @@
 # (Titlul)
 An interactive audio analsys and remix tool using Fluid Corpus Manipulation Toolkit
+
   -Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de remixuri prin tehnici de audio slicing și DSP.
     -Features:
+    
       *Încărcarea buclelor de tobe și a mostrelor audio
       *Detectarea automată a tranzienților folosind Fluid Corpus
       *Segmentarea și slicing-ul mostrelor de percutie
