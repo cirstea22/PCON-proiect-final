@@ -1,6 +1,15 @@
 # (Titlul)
-(Scurtă descriere.)
-
+An interactive audio analsys and remix tool using Fluid Corpus Manipulation Toolkit
+-Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de remixuri prin tehnici de audio slicing și DSP.
+  -Features:
+    *Încărcarea buclelor de tobe și a mostrelor audio
+    *Detectarea automată a tranzienților folosind Fluid Corpus
+    *Segmentarea și slicing-ul mostrelor de percutie
+    *Redare aleatorie a feliilor / motor de remix automat
+    *Vizualizarea formei de undă în timp real
+    *Vizualizarea spectrală prin spectroscop~
+    *Extragerea caracteristicilor audio (MFCC/intesintate sonora,spectrul sonor)
+        *
 ## (Instalare)
 ...
 
@@ -9,22 +18,15 @@
 
 ## (Istoric)
 
-(13.05) ...
+(07.05.2026)-Primul draft al proiectului a fost prezentat fizic la laborator
+(27.05.2028)-Al doilea draft al proiectului a fost incarcat pe Github aici.De mentionat faptul ca proiectul nu este inca gata, Fluid Corpus Manipulations Toolkit features nefiind inca implementate la modul complet functional
 
-(3.06) ...
-
-(X.06) ...
 
 ## (Link-uri)
 ...
 
 # Dezvoltarea proiectului
 
-Pentru început:
-
-1. Creează-ți cont pe Github
-2. Download și install [Github Desktop](https://desktop.github.com/)
-3. Citește [acest ghid](https://charlesmartin.com.au/blog/2020/08/09/student-project-repository) și ține la îndemână [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
 
 Apoi, procesul este următorul (inspirat de [aici](https://cs.anu.edu.au/courses/comp1720/deliverables/05-major-project/#submission-process)):
 
