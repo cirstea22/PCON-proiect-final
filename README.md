@@ -9,7 +9,7 @@ An interactive audio analsys and remix tool using Fluid Corpus Manipulation Tool
     *Vizualizarea formei de undă în timp real
     *Vizualizarea spectrală prin spectroscop~
     *Extragerea caracteristicilor audio (MFCC/intesintate sonora,spectrul sonor)
-        *
+    
 ## (Instalare)
 ...
 
