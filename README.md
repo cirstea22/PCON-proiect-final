@@ -2,6 +2,7 @@
 
 
   -Drum Loop Analyzer and Slice Processor este un proiect realizat în Max/MSP care utilizează biblioteca Fluid Corpus Manipulation Toolkit pentru analiza și procesarea buclelor audio de percuție.
+  
   -Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de variații ritmice prin tehnici de audio slicing și procesare digitală a semnalelor (DSP). Scopul principal este explorarea metodelor moderne de segmentare și manipulare a materialului audio într-un mediu interactiv.
   
   -Features:
