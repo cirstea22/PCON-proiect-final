@@ -8,36 +8,60 @@
   -Features:
     
   *Încărcarea buclelor de tobe și a mostrelor audio
+  
   *Detectarea automată a tranzienților folosind Fluid Corpus Manipulation Toolkit
+  
   *Segmentarea și slicing-ul mostrelor audio
+  
   *Redare aleatorie a segmentelor detectate
+  
   *Generarea automată de variații și remixuri
+  
   *Redare normală și redare inversată a fragmentelor audio
+  
   *Controlul parametrilor de procesare în timp real
+  
   *Efecte audio integrate:
+  
   *Distortion / Drive
+  
   *Filtru Low-Pass
+  
   *Delay
+  
   *Vizualizarea formei de undă prin waveform~
+  
   *Vizualizarea semnalului audio prin scope~
+  
   *Analiza spectrală în timp real prin spectroscope~
+  
     
 ## (Instalare)
 -Instalați Max/MSP (versiunea 8 sau mai nouă).
+
 -Instalați biblioteca Fluid Corpus Manipulation Toolkit.
+
 -Descărcați sau clonați acest repository.
+
 -Deschideți fișierul .maxpat în Max/MSP.
+
 -Încărcați o mostră audio și porniți analiza.
+
 
 ## (Utilizare)
 -Apăsați butonul Replace pentru a încărca un fișier audio.
+
 -Apăsați Process pentru detectarea tranzienților.
+
 -Utilizați controalele de redare pentru:
+
     *redare normală;
     *redare pe segmente;
     *redare aleatorie;
     *redare inversată.
+    
 -Ajustați parametrii efectelor audio și ai motorului de slicing.
+
 -Observați modificările în reprezentările grafice și spectrale ale semnalului.
 
 ## (Istoric)
