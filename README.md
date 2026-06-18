@@ -1,30 +1,51 @@
 # An interactive audio analsys and remix tool using Fluid Corpus Manipulation Toolkit
 
 
-  -Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de remixuri prin tehnici de audio slicing și DSP.
+  -Drum Loop Analyzer and Slice Processor este un proiect realizat în Max/MSP care utilizează biblioteca Fluid Corpus Manipulation Toolkit pentru analiza și procesarea buclelor audio de percuție.
+  -Proiectul se concentrează pe analiza buclelor de tobe, detectarea tranzienților și generarea automată de variații ritmice prin tehnici de audio slicing și procesare digitală a semnalelor (DSP). Scopul principal este explorarea metodelor moderne de segmentare și manipulare a materialului audio într-un mediu interactiv.
   
   -Features:
     
-    *Încărcarea buclelor de tobe și a mostrelor audio
-    *Detectarea automată a tranzienților folosind Fluid Corpus
-    *Segmentarea și slicing-ul mostrelor de percutie
-    *Redare aleatorie a feliilor / motor de remix automat
-    *Vizualizarea formei de undă în timp real
-    *Vizualizarea spectrală prin spectroscop~
-    *Extragerea caracteristicilor audio (MFCC/intesintate sonora,spectrul sonor)
+  *Încărcarea buclelor de tobe și a mostrelor audio
+  *Detectarea automată a tranzienților folosind Fluid Corpus Manipulation Toolkit
+  *Segmentarea și slicing-ul mostrelor audio
+  *Redare aleatorie a segmentelor detectate
+  *Generarea automată de variații și remixuri
+  *Redare normală și redare inversată a fragmentelor audio
+  *Controlul parametrilor de procesare în timp real
+  *Efecte audio integrate:
+  *Distortion / Drive
+  *Filtru Low-Pass
+  *Delay
+  *Vizualizarea formei de undă prin waveform~
+  *Vizualizarea semnalului audio prin scope~
+  *Analiza spectrală în timp real prin spectroscope~
     
 ## (Instalare)
-...
+-Instalați Max/MSP (versiunea 8 sau mai nouă).
+-Instalați biblioteca Fluid Corpus Manipulation Toolkit.
+-Descărcați sau clonați acest repository.
+-Deschideți fișierul .maxpat în Max/MSP.
+-Încărcați o mostră audio și porniți analiza.
 
 ## (Utilizare)
-...
+-Apăsați butonul Replace pentru a încărca un fișier audio.
+-Apăsați Process pentru detectarea tranzienților.
+-Utilizați controalele de redare pentru:
+    *redare normală;
+    *redare pe segmente;
+    *redare aleatorie;
+    *redare inversată.
+-Ajustați parametrii efectelor audio și ai motorului de slicing.
+-Observați modificările în reprezentările grafice și spectrale ale semnalului.
 
 ## (Istoric)
 
 (07.05.2026)-Primul draft al proiectului a fost prezentat fizic la laborator
 
-(27.05.2028)-Al doilea draft al proiectului a fost incarcat pe Github aici.De mentionat faptul ca proiectul nu este inca gata, Fluid Corpus Manipulations Toolkit features nefiind inca implementate la modul complet functional
+(27.05.2026)-Al doilea draft al proiectului a fost incarcat pe Github aici.De mentionat faptul ca proiectul nu este inca gata, Fluid Corpus Manipulations Toolkit features nefiind inca implementate la modul complet functional
 
+(18.06.2026)-Al treilea draft al proiectului a fost incarcat pe Github aici. De mentionat faptul ca in proiect au fost adaugate librariile de Fluid Corpus Manipulations Toolkit (slicing features) pentru drum sample remix.
 
 ## (Link-uri)
 ...
